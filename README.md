@@ -1,1 +1,1 @@
-# Python-Practical-task_2-
+# Python-Practical-task_2
